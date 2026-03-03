@@ -1,0 +1,18 @@
+### 通用
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+### backend 相关
+backend/node_modules/
+backend/logs/
+backend/tmp/
+backend/*.log
+
+### 操作系统/编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
